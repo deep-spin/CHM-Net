@@ -13,7 +13,7 @@ Official implementation of the paper **Modern Hopfield Networks With Continuous-
 
 ## Resources
 
-- [Paper](to add) (arXiv)
+- [Paper](https://arxiv.org/pdf/2502.10122) (arXiv)
 
 All material is made available under the MIT license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
 
